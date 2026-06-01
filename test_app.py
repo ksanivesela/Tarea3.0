@@ -1,7 +1,7 @@
 from app import sumar, restar, multiplicar, dividir
 
 def test_sumar():
-    assert sumar(5, 3) == 10
+    assert sumar(5, 3) == 8
 
 def test_restar():
     assert restar(10, 4) == 6
